@@ -1,4 +1,4 @@
-Live Demo:- ttps://felixits02.github.io/Responsive-CV-Card/
+Live Demo:- https://felixits02.github.io/Responsive-CV-Card/
 
 <h2>Detlis:-</h2>
 This project is a web-based CV card generator that allows users to create a digital CV by filling out a simple form. The application uses HTML, CSS, and JavaScript to collect user data (name, email, address, job details, and profile picture), stores it in localStorage, and then displays it on a separate page in a clean, responsive CV layout.
